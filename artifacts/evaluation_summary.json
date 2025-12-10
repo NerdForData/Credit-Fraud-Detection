@@ -1,0 +1,27 @@
+{
+  "metrics": {
+    "roc_auc": 0.8174821740324401,
+    "pr_auc": 0.4090840849320939,
+    "precision": 0.3308933933933934,
+    "recall": 0.5945034564154443,
+    "f1": 0.4251522276481582,
+    "threshold": 0.6027570962905884,
+    "n_test": 51070,
+    "positive_rate_test": 0.11613471705502251,
+    "confusion_matrix": [
+      [
+        38009,
+        7130
+      ],
+      [
+        2405,
+        3526
+      ]
+    ]
+  },
+  "plots_dir": "artifacts/plots",
+  "shap": {
+    "shap_available": true,
+    "shap_sample_used": 1000
+  }
+}
