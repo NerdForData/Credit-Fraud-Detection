@@ -1,1 +1,1 @@
-{"roc_auc":0.817482174,"pr_auc":0.4090840849,"precision":0.3308933934,"recall":0.5945034564,"f1":0.4251522276,"threshold":0.6027570963,"n_test":51070,"positive_rate_test":0.1161347171,"confusion_matrix":[[38009,7130],[2405,3526]]}
+{"roc_auc":0.8174821778,"pr_auc":0.4090840901,"precision":0.3308933934,"recall":0.5945034564,"f1":0.4251522276,"threshold":0.6027570963,"n_test":51070,"positive_rate_test":0.1161347171,"confusion_matrix":[[38009,7130],[2405,3526]]}

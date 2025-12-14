@@ -1,7 +1,7 @@
 {
   "metrics": {
-    "roc_auc": 0.8174821740324401,
-    "pr_auc": 0.4090840849320939,
+    "roc_auc": 0.8174821777676939,
+    "pr_auc": 0.4090840901202267,
     "precision": 0.3308933933933934,
     "recall": 0.5945034564154443,
     "f1": 0.4251522276481582,
@@ -19,7 +19,7 @@
       ]
     ]
   },
-  "plots_dir": "artifacts/plots",
+  "plots_dir": "artifacts\\plots",
   "shap": {
     "shap_available": true,
     "shap_sample_used": 1000
