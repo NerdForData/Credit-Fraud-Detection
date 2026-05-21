@@ -355,11 +355,6 @@ Contributions are welcome! Areas for improvement:
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
-
-**NerdForData**
-- GitHub: [@NerdForData](https://github.com/NerdForData)
-
 ## 🙏 Acknowledgments
 
 - XGBoost for the gradient boosting framework
@@ -368,5 +363,3 @@ This project is licensed under the MIT License.
 - scikit-learn for preprocessing utilities
 
 ---
-
-**⭐ Star this repo if you find it useful!**
