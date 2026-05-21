@@ -342,14 +342,14 @@ Tests include:
 ## 🤝 Contributing
 
 Contributions are welcome! Areas for improvement:
-- [ ] MLflow experiment tracking
-- [ ] Model drift detection
-- [ ] A/B testing framework
-- [ ] Authentication & authorization
-- [ ] Database integration for predictions
-- [ ] CI/CD pipeline (GitHub Actions)
-- [ ] Advanced feature engineering
-- [ ] Model versioning and registry
+- MLflow experiment tracking
+- Model drift detection
+- A/B testing framework
+- Authentication & authorization
+- Database integration for predictions
+- CI/CD pipeline (GitHub Actions)
+- Advanced feature engineering
+- Model versioning and registry
 
 ## 📝 License
 
@@ -361,5 +361,4 @@ This project is licensed under the MIT License.
 - FastAPI for the modern web framework
 - SHAP for model interpretability
 - scikit-learn for preprocessing utilities
-
 ---
